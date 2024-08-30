@@ -4,6 +4,7 @@ terabox
 terabox
 
 1.Giới thiệu
+
 Ứng dụng này nhằm mục đích lưu trữ dữ liệu của người dùng như âm thanh, video,ảnh... giúp cho người dùng có thể lưu trữ nhiều tệp tin cũng như là dữ liệu về máy chủ để giải phóng bổ nhớ trên thiết bị của mình.
 2. Chức năng 
 upload file media
